@@ -22,3 +22,4 @@ MIT
 # main also changed
 bugfix comment
 testing pull
+git fetch and git merge test for exercise 4
